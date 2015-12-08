@@ -189,9 +189,7 @@ public class ListenerTest {
 这部分依赖于之前的例子来向你展示Lambda表达式如何优化你的代码。Lambda提供了一种更好的解决重复使用规则并且使你的代码更加简洁易读的一种方式。
 
 ### 常用的查询用例
-程序中常用的查询用例指在数据集合中查找符合具体某一个标准的数据。在JavaOne 2012
-
-*In the excellent "Jump-Starting Lambda" presentation at JavaOne 2012, Stuart Marks and Mike Duigou walk though just such a use case. Given a list of people, various criteria are used to make robo calls (automated phone calls) to matching persons. This tutorial follows that basic premise with slight variations.*
+程序中常用的查询用例指在数据集合中查找符合具体某一个标准的数据。在JavaOne 2012 “Jump-Starting Lambda”的演示上，Stuart Marks 和Mike Duigou就使用到了这个用例。给出一些人，让机器人按照多种要求的标准来匹配。这次的教程遵循样本适当的多样性。
 
 在这个例子中，我们是要针对美国的以下三种人：
 
